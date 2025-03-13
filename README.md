@@ -6,9 +6,9 @@ This project is split into three main folders:
 2. The "Python Code" folder contains all the Python code in each meeting.
 3. The "Assignment Each Week" folder contains a collection of assignments and answer keys for each meeting.
 
-# Required Softwares
+# IDE
 
-## Python
+## VSCode
 
 Open files as usual.
 
@@ -23,8 +23,3 @@ Or
 1. Open Anaconda Prompt
 2. Go to your directory files : `cd D:\Educations\College\Cursor\Numerical Analysis UTS`
 3. Run `jupyter notebook`
-
-# IDE
-
-1. Anaconda / Jupyter Notebook
-2. VSCode
