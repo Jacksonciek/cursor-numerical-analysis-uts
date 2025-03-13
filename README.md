@@ -17,5 +17,9 @@ _To download please go to this link : https://www.anaconda.com/download_
 Or
 
 1. Open Anaconda Prompt
-2. Go to your directory files : `cd D:\Educations\College\Cursor\Numerical Analysis UTS`
+2. Go to your desired directory files : `cd D:\Educations\College\Cursor\Numerical Analysis UTS`
 3. Run `jupyter notebook`
+
+## Visual Studio Code
+
+Open like usual and install Jupyter Notebook and Python extensions by Microsoft.
