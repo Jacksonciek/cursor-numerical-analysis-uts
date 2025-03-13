@@ -6,11 +6,7 @@ This project is split into three main folders:
 2. The "Python Code" folder contains all the Python code in each meeting.
 3. The "Assignment Each Week" folder contains a collection of assignments and answer keys for each meeting.
 
-# IDE
-
-## VSCode
-
-Open files as usual.
+# Required Softwares
 
 ## Jupyter Notebook
 
