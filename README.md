@@ -27,3 +27,10 @@ This project consists of 4 main parts, including:
 2. Folder "Materi" contains all of the Numerical Analysis material from Week 1 until Week 7
 3. Folder "Python Code" contains all of the Python code in each week's material content.
 4. Folder "Tugas Tiap Pertemuan" contains all of the questions and answers of each weekly assignment.
+
+## Cloning Project
+
+To clone this project please run these commands:
+
+1. Go to your desired workplace folder (For example : `cd D:\Educations\College\Cursor\Numerical Analysis UTS`)
+2. Run `git clone https://github.com/Jacksonciek/cursor-numerical-analysis-uts`
